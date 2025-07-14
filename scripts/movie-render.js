@@ -1,4 +1,4 @@
-export const renderMoviesToDOM = (movieHTML) => {
+export const renderMoviesToDom = (movieHTML) => {
    const movieList = document.getElementById('movie-list');
 
    if (movieList) {

@@ -2,6 +2,7 @@
     flex-basis: 300px;
     flex-grow: 1;
     max-width: 400px;
+    height: 15rem;
     margin-bottom: 20px;
     display: flex;
     flex-direction: row;
